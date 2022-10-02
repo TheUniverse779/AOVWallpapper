@@ -1,102 +1,711 @@
 {
   "categories": [
-	{
-      "id": "4K",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/4K.jpg",
-      "count": "64",
-      "ratio" : "1233:2127",
-      "name" : "Free Fire 4K Wallpaper"
-    },
-	{
-      "id": "PRO1",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/PRO1.jpg",
-      "count": "141",
-      "ratio" : "300:533",
-      "name" : "Free Fire PRO collection 1"
-    },
-	{
-      "id": "FFGold",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFGold.jpg",
-      "count": "93",
-      "ratio" : "389:647",
-      "name" : "Free Fire Gold wallpaper"
-    },
-	{
-      "id": "FFPlatinum",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFPlatinum.jpg",
-      "count": "23",
-      "ratio" : "640:640",
-      "name" : "Free Fire Platinum wallpaper"
-    },
-	{
-      "id": "Collection8",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection8.jpg",
-      "count": "761",
-      "ratio" : "1077:1001",
-      "name" : "Free Fire Wallpaper Collection"
-    },
-	{
-      "id": "Collection1",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection1.jpg",
-      "count": "471",
-      "ratio" : "480:800",
-      "name" : "Free Fire Wallpaper Collection 1"
-    },
-	{
-      "id": "Collection2",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection2.jpg",
-      "count": "192",
-      "ratio" : "719:1199",
-      "name" : "Free Fire Wallpaper Collection 2"
-    },
-	{
-      "id": "Collection3",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection3.jpg",
-      "count": "118",
-      "ratio" : "720:674",
-      "name" : "Free Fire Wallpaper Collection 3"
-    },
-	{
-      "id": "Collection4",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection4.jpg",
-      "count": "113",
-      "ratio" : "564:888",
-      "name" : "Free Fire Wallpaper Collection 4"
-    },
-	{
-      "id": "Collection5",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection5.jpg",
-      "count": "66",
-      "ratio" : "2089:2143",
-      "name" : "Free Fire Wallpaper Collection 5"
-    },
-	{
-      "id": "Collection6",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection6.jpg",
-      "count": "129",
-      "ratio" : "1071:1975",
-      "name" : "Free Fire Wallpaper Collection 6"
-    },
-	{
-      "id": "silver",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/silver.jpg",
-      "count": "32",
-      "ratio" : "381:555",
-      "name" : "Free Fire Silver wallpaper"
+    {
+      "count": "0",
+      "id": "Airi",
+      "image": "",
+      "name": "Airi",
+      "ratio": ""
     },
     {
-      "id": "FFAlphabet",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFAlphabet.jpg",
-      "count": "26",
-      "ratio" : "699:385",
-      "name" : "Free Fire Alphabet Wallpaper"
+      "count": "0",
+      "id": "Aleister",
+      "image": "",
+      "name": "Aleister",
+      "ratio": ""
     },
-	{
-      "id": "FFLoveAlphabet",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFLoveAlphabet.jpg",
-      "count": "26",
-      "ratio" : "697:481",
-      "name" : "Free Fire Love Alphabet Wallpaper"
+    {
+      "count": "0",
+      "id": "Alice",
+      "image": "",
+      "name": "Alice",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Allain",
+      "image": "",
+      "name": "Allain",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Amily",
+      "image": "",
+      "name": "Amily",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Annette",
+      "image": "",
+      "name": "Annette",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "AOI",
+      "image": "",
+      "name": "AOI",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Arduin",
+      "image": "",
+      "name": "Arduin",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Arthur",
+      "image": "",
+      "name": "Arthur",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Arum",
+      "image": "",
+      "name": "Arum",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Astrid",
+      "image": "",
+      "name": "Astrid",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ata",
+      "image": "",
+      "name": "Ata",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "AzzenKa",
+      "image": "",
+      "name": "AzzenKa",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Baldum",
+      "image": "",
+      "name": "Baldum",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Batman",
+      "image": "",
+      "name": "Batman",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Bright",
+      "image": "",
+      "name": "Bright",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Butterfly",
+      "image": "",
+      "name": "Butterfly",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Capheny",
+      "image": "",
+      "name": "Capheny",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "celica",
+      "image": "",
+      "name": "celica",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Chaugnar",
+      "image": "",
+      "name": "Chaugnar",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Cresht",
+      "image": "",
+      "name": "Cresht",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Darcy",
+      "image": "",
+      "name": "Darcy",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Dextra",
+      "image": "",
+      "name": "Dextra",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "DieuThuyen",
+      "image": "",
+      "name": "DieuThuyen",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Dirak",
+      "image": "",
+      "name": "Dirak",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Elandorr",
+      "image": "",
+      "name": "Elandorr",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Elsu",
+      "image": "",
+      "name": "Elsu",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Enzo",
+      "image": "",
+      "name": "Enzo",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Errol",
+      "image": "",
+      "name": "Errol",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Fennik",
+      "image": "",
+      "name": "Fennik",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Florentino",
+      "image": "",
+      "name": "Florentino",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Gildur",
+      "image": "",
+      "name": "Gildur",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Grakk",
+      "image": "",
+      "name": "Grakk",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Hayate",
+      "image": "",
+      "name": "Hayate",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "IGGY",
+      "image": "",
+      "name": "IGGY",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ignis",
+      "image": "",
+      "name": "Ignis",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ilumia",
+      "image": "",
+      "name": "Ilumia",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ishar",
+      "image": "",
+      "name": "Ishar",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Jinna",
+      "image": "",
+      "name": "Jinna",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Joker",
+      "image": "",
+      "name": "Joker",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Kahlii",
+      "image": "",
+      "name": "Kahlii",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Keera",
+      "image": "",
+      "name": "Keera",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Kriknak",
+      "image": "",
+      "name": "Kriknak",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Krixi",
+      "image": "",
+      "name": "Krixi",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Krizzix",
+      "image": "",
+      "name": "Krizzix",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Lauriel",
+      "image": "",
+      "name": "Lauriel",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Laville",
+      "image": "",
+      "name": "Laville",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Liliana",
+      "image": "",
+      "name": "Liliana",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Lorion",
+      "image": "",
+      "name": "Lorion",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Lubo",
+      "image": "",
+      "name": "Lubo",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Lumburr",
+      "image": "",
+      "name": "Lumburr",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Maloch",
+      "image": "",
+      "name": "Maloch",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Marja",
+      "image": "",
+      "name": "Marja",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Max",
+      "image": "",
+      "name": "Max",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Mganga",
+      "image": "",
+      "name": "Mganga",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Mina",
+      "image": "",
+      "name": "Mina",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Murad",
+      "image": "",
+      "name": "Murad",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Nakroth",
+      "image": "",
+      "name": "Nakroth",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Natalya",
+      "image": "",
+      "name": "Natalya",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "NgoKhong",
+      "image": "",
+      "name": "NgoKhong",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Omega",
+      "image": "",
+      "name": "Omega",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Omen",
+      "image": "",
+      "name": "Omen",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ormarr",
+      "image": "",
+      "name": "Ormarr",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Paine",
+      "image": "",
+      "name": "Paine",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Payna",
+      "image": "",
+      "name": "Payna",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Preyta",
+      "image": "",
+      "name": "Preyta",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Qi",
+      "image": "",
+      "name": "Qi",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Quillen",
+      "image": "",
+      "name": "Quillen",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Raz",
+      "image": "",
+      "name": "Raz",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Richter",
+      "image": "",
+      "name": "Richter",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Rouie",
+      "image": "",
+      "name": "Rouie",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Rourke",
+      "image": "",
+      "name": "Rourke",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Roxie",
+      "image": "",
+      "name": "Roxie",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ryoma",
+      "image": "",
+      "name": "Ryoma",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Sephera",
+      "image": "",
+      "name": "Sephera",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Sinestrea",
+      "image": "",
+      "name": "Sinestrea",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Skud",
+      "image": "",
+      "name": "Skud",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Slimz",
+      "image": "",
+      "name": "Slimz",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Taara",
+      "image": "",
+      "name": "Taara",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "TelAnnas",
+      "image": "",
+      "name": "TelAnnas",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Thane",
+      "image": "",
+      "name": "Thane",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "TheFlash",
+      "image": "",
+      "name": "TheFlash",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Thorne",
+      "image": "",
+      "name": "Thorne",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Toro",
+      "image": "",
+      "name": "Toro",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "TrieuVan",
+      "image": "",
+      "name": "TrieuVan",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Tulen",
+      "image": "",
+      "name": "Tulen",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Valhein",
+      "image": "",
+      "name": "Valhein",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Veera",
+      "image": "",
+      "name": "Veera",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Veres",
+      "image": "",
+      "name": "Veres",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Violet",
+      "image": "",
+      "name": "Violet",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Volkath",
+      "image": "",
+      "name": "Volkath",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Wiro",
+      "image": "",
+      "name": "Wiro",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Wisp",
+      "image": "",
+      "name": "Wisp",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Ybneth",
+      "image": "",
+      "name": "Ybneth",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Yena",
+      "image": "",
+      "name": "Yena",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Yorn",
+      "image": "",
+      "name": "Yorn",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Zata",
+      "image": "",
+      "name": "Zata",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Zephys",
+      "image": "",
+      "name": "Zephys",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "zill",
+      "image": "",
+      "name": "zill",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Zip",
+      "image": "",
+      "name": "Zip",
+      "ratio": ""
+    },
+    {
+      "count": "0",
+      "id": "Zuka",
+      "image": "",
+      "name": "Zuka",
+      "ratio": ""
     }
   ]
 }
