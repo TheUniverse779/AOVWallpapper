@@ -302,6 +302,13 @@
       "ratio": "737:1179"
     },
     {
+      "count": "3",
+      "id": "KilGroth",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/KilGroth/0.jpg",
+      "name": "KilGroth",
+      "ratio": "9:16"
+    },
+    {
       "count": "10",
       "id": "Krixi",
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Krixi/0.jpg",
@@ -344,6 +351,13 @@
       "ratio": "417:751"
     },
     {
+      "count": "6",
+      "id": "Lindis",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Lindis/0.jpg",
+      "name": "Lindis",
+      "ratio": "9:16"
+    },
+    {
       "count": "8",
       "id": "Lubo",
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Lubo/0.jpg",
@@ -363,6 +377,13 @@
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Maloch/0.jpg",
       "name": "Maloch",
       "ratio": "903:1177"
+    },
+    {
+      "count": "3",
+      "id": "Moren",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Moren/0.jpg",
+      "name": "Moren",
+      "ratio": "9:16"
     },
     {
       "count": "3",
@@ -539,6 +560,13 @@
       "name": "Skud",
       "ratio": "625:872"
     },
+	{
+      "count": "3",
+      "id": "Superman",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Superman/0.jpg",
+      "name": "Superman",
+      "ratio": "9:16"
+    },
     {
       "count": "4",
       "id": "Slimz",
@@ -552,6 +580,13 @@
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Taara/0.jpg",
       "name": "Taara",
       "ratio": "845:1177"
+    },
+	{
+      "count": "3",
+      "id": "TeeMee",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/TeeMee/0.jpg",
+      "name": "TeeMee",
+      "ratio": "9:16"
     },
     {
       "count": "11",
@@ -645,6 +680,13 @@
       "ratio": "625:785"
     },
     {
+      "count": "2",
+      "id": "WonderWoman",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/WonderWoman/0.jpg",
+      "name": "WonderWoman",
+      "ratio": "9:16"
+    },
+    {
       "count": "4",
       "id": "Wisp",
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Wisp/0.jpg",
@@ -664,6 +706,13 @@
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Yena/0.jpg",
       "name": "Yena",
       "ratio": "863:1169"
+    },
+    {
+      "count": "5",
+      "id": "Xeniel",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Xeniel/0.jpg",
+      "name": "Xeniel",
+      "ratio": "9:16"
     },
     {
       "count": "8",
@@ -705,7 +754,7 @@
       "id": "Zuka",
       "image": "https://raw.githubusercontent.com/TheUniverse779/AOVWallpapper/main/Zuka/0.jpg",
       "name": "Zuka",
-      "ratio": "1280:784"
+      "ratio": "9:16"
     }
   ]
 }
